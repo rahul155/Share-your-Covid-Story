@@ -19,15 +19,11 @@ function App() {
     
     </Routes>      
     
-    </Box>
-    
+    </Box>    
       
-      </Router> 
-     
+      </Router>     
  
-
   );
 }
-
 
 export default App;
