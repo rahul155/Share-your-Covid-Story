@@ -1,2 +1,2 @@
-# Share-your-Covid-Story
+# Share-your-Covid-Story (MERN)
 # https://covonestory.herokuapp.com/
